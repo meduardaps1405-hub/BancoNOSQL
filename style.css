@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+#preco {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#preco:hover {
+    color: white;
+}
+
+.botao:hover {
+    margin-left: 500px;
+}
+
+.botao {
+    background-color: green;
+    border: none;
+    color: white;
+}
